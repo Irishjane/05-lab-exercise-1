@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">SHS Student Registration</string>
+    <string name="text_AP">Academic Program</string>
+    <string name="text_last">Last Name</string>
+    <string name="text_first">First Name</string>
+    <string name="text_middle">Middle Name</string>
+    <string name="text_gender">Gender</string>
+    <string name="spinner_reg">ABM</string>
+    <string name="radiobutton_male">Male</string>
+    <string name="radiobutton_female">Female</string>
+    <string name="text_requirement">Requirements</string>
+    <string name="checkbox_orig">Original Report Card (Form 138)</string>
+    <string name="checkbox_nso">NSO copy of Birth Certificate</string>
+    <string name="checkbox_cert">Certificate of Good Moral Character</string>
+    <string name="checkbox_cert2">Certificate of Junior High School Completion</string>
+    <string name="button_submit">Submit</string>
+    <string-array name="spinner_items">
+        <item>ABM</item>
+        <item>BSIT</item>
+        <item>BSCS</item>
+        <item>BSCpE</item>
+        <item>MSIT</item>
+        <item>MSCS</item>
+    </string-array>
+    <string name="RadioGroup_t"></string>
+</resources>
